@@ -36,7 +36,7 @@
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "Text editor that allows users to take notes with JavaScript.",
+  "description": "Text editor that that allows Javascript Syntax!",
   "background_color": "#394634",
   "theme_color": "#394634"
 }
